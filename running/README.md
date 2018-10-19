@@ -1,4 +1,10 @@
+原理就是把奔跑的过程编成一幅幅图片，逐帧显示。
 
+![](running.jpg)
+
+而oled只有128*64像素，因此需要用gimp来制作1bit格式的PBM位图。
+
+![](ani.jpng)
 
 code:main.py
 
